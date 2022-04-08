@@ -1,1 +1,2 @@
 # odin-recipes
+This is a a very minimalistic website to practice basic HTML skills learned in the Odin Project. It will not involve any CSS and will be very ugly. It's purpose is to practice setting up GitHub repositories, familiarizing myself with Git, and practicing the various basic HTML elements. Displayed in this site are just the basic boilerplate HTML format, titles, paragraphs, links, and images.
